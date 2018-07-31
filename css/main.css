@@ -100,9 +100,6 @@ textarea {
      text-align: right;
    }
 
-   .navbar{
-     justify-content: flex-end;
-   }
 
    .navbar-light .navbar-nav .active > .nav-link{
      color: white;
@@ -198,6 +195,11 @@ textarea {
 
   .min-height{
     min-height: 100px;
+  }
+
+  .logo-site{
+    width: 30px;
+    height: 30px;
   }
 
   @media (max-width:1200px) {
